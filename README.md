@@ -29,7 +29,7 @@
 
 2. **リポジトリをクローン**:
     ```bash
-    git clone https://github.com/your-repo/blockchain-dev-env.git
+    git clone https://github.com/Z9RTM/blockchain-dev-env.git
     cd blockchain-dev-env
     ```
 
@@ -60,7 +60,7 @@
 
 3. **リポジトリをクローン**:
     ```bash
-    git clone https://github.com/your-repo/blockchain-dev-env.git
+    git clone https://github.com/Z9RTM/blockchain-dev-env.git
     cd blockchain-dev-env
     ```
 
